@@ -1,0 +1,4 @@
+Zadanie 1:
+1) Wypisać dane zaczytane z repozytorium.
+2) Wypisać dane pobrane z pliku .csv.
+3) Sztucznie wygenerować dane, np. dwuwymiarowe.
