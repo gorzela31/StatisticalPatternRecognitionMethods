@@ -1,0 +1,3 @@
+Instructions
+1. Dla dwóch wybranych zbiorów danych ich wizualizacja przy pomocy wykresów 2D i 3D.
+2. Wizualizacja wybranych atrybutów przy użyciu histogramu.
