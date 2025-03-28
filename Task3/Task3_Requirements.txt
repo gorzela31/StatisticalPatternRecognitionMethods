@@ -1,0 +1,8 @@
+Instructions
+1. Podać zakres zmienności wartości atrybutów.
+2. Obliczyć średnią dla wartości atrybutów wybranego zbioru danych.
+3. Obliczyć odchylenie standardowe wartości atrybutów.
+4. Przeskalować do pewnego przedziału. Wybraną metodą zwizualizować różnice między tak otrzymanymi wartościami cech a tymi przed przeskalowaniem.
+5. Wykonać standaryzację wartości atrybutów. Wybraną metodą zwizualizować różnice.
+6. Przeprowadzić normalizację wartości atrybutów (przy użyciu różnych norm). Wybraną metodą zwizualizować różnice.
+7. Oczyścić dane (uzupełnić/usunąć brakujące wartości, usunąć duplikaty).
