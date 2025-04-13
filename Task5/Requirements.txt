@@ -1,0 +1,2 @@
+1. Użycie klasyfikatora kNN z różnymi miarami odległości i różną liczbą sąsiadów.
+2. Użycie klasyfikatora SVM dla różnych parametrów jądra.
